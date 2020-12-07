@@ -1,0 +1,4 @@
+arabic-reshaper==2.1.1
+matplotlib==3.3.3
+numpy==1.19.3
+Pyrogram===0.18.0-async
